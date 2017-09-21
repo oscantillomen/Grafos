@@ -1,0 +1,12 @@
+#grafo1{
+    width: 50%;
+    height: 400px;
+    border: 1px solid lightgray;
+    margin: 0 auto;
+    background-color: lightcyan;
+}
+
+.borde{
+    border: 1px solid lightgray;
+    widows: 50%;
+}
